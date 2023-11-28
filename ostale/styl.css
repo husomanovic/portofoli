@@ -1,0 +1,73 @@
+@media screen and (max-width: 500px) {
+    .bt{
+        font-size: 100%;
+        padding-top: 20px ;
+        padding-bottom: 20px;
+
+    }
+}
+@media screen and (min-width: 500px) {
+    .bt{
+        font-size: 150%; 
+        padding-top: 25px ;
+        padding-bottom: 25px;
+
+    }
+}
+
+header{
+    margin-top: 5px;
+}
+body{
+    background-image:url(../img/square-lines-boxes-white-wallpaper.jpg) ;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;
+
+    color: aliceblue;
+}
+.slika1 {
+    text-align: center;
+    
+}
+.slika1 img{
+    width: 20%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    box-shadow: 2px 2px 5px green;
+}
+h1{
+    text-align: center;
+    font-size: 300%;
+}
+p{
+    font-size: 200%;
+    text-align: center;
+}
+.bt {
+    text-align: center;
+    width: 100%;
+    background-image: linear-gradient(to bottom right, rgb(0, 0, 0), rgb(138, 138, 138));
+    color: white;
+    height: 100%;
+    opacity: 0.9;
+    font-weight: bold;
+}
+
+input {
+    background-image: linear-gradient(to bottom right, rgb(0, 0, 0), rgb(138, 138, 138));
+    opacity: 0,9;
+    width: 100%;
+}
+.sr{
+    margin-top: 20px;
+    height: 30px;
+    font-size: 15px;
+
+}
+a{
+    color: black;
+}
+
